@@ -5,9 +5,9 @@ module.exports = {
     extend: {
       // 1. Personalizar colores
       colors: {
-        primary: '#1D4ED8',  // azul personalizado
-        secondary: '#9333EA',  // púrpura personalizado
-        flagidari: ['Inter', 'sans-serif'],
+        primary: '#f3f5f0',  
+        secondary: '#9333EA',  
+
       },
       
       // 2. Añadir tipografías personalizadas
